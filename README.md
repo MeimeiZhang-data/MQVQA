@@ -1,3 +1,4 @@
 # MQVQA
-We proposed a Multiple-Step Question-Driven VQA (MQVQA) system to improve the reasoning and understanding ability in remote sensing VQA tasks in cases where questions focus on not only image scenes but also the relationship between objects. 
+This repository is the implementation of an end-to-end Multiple-step Question-driven VQA (MQVQA) system for remote sensing applications to capture valuable information and extend the applications of remote-sensing VQA. The model improves the reasoning and understanding ability in remote sensing VQA tasks in cases where questions focus on not only image scenes but also the relationship between objects. 
 # Prepare data
+Download and unzip dataset from [Google Drive](http). 
